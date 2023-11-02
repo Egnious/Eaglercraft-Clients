@@ -1,3 +1,5 @@
 # EaglercraftX-Clients
-
-I made this repl because people always asking for client downloads around the internet so ill add client download to this doesnt matter if client is outdated they are there for a reason. I'll add clients daily too so don't worry.
+- Added Precision Client Offline Download [NO SINGLEPLAYER]
+- Added Shadow Client 2.5 Offline Download
+- Added EaglerReborn Offline Download
+- Added Eaglercraft 1.5.2 Offline Download
