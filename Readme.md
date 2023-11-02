@@ -6,3 +6,4 @@
 - Added EaglercraftX U19 Ultimate 1.8.8 Offline Download!
 - Added OddFuture Client 1.5.2 Offline Download!
 - Added FuchsiaX Client 1.5.2 Offline Download!
+- Added DragonX V3 Client Offline Download!
